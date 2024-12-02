@@ -1,0 +1,47 @@
+
+body{
+    background-image: url(tkwls/background.png);
+    background-repeat: no-repeat;  
+    background-attachment: fixed;
+    background-size: cover;
+}
+.header {
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+}
+.center {
+    flex-grow: 1;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: #333;
+}
+.slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 1s ease-in-out;
+    z-index: 10;
+}
+  
+.inner{
+    background-color: rgba(226, 226, 226, 0.938);
+    width: 700px;
+    margin: 0 15px;
+    padding: 100px;
+    border-radius: 25px;
+    float: left;
+}
+.inner h3 {
+    font-size: 18px;
+    margin: 10px 0;
+}
+.inner img{
+    width: 100%;
+    border-radius: 5px;
+    background-size: 300px;
+}
+
