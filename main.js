@@ -58,18 +58,18 @@
         //데이터와 URL
         const data = [
             { name: "김동희", url: "https://gjtjdgur0920.github.io/1/" },
-            { name: "김한빈", url: "file:///C:/Users/user/Desktop/%EB%82%98%EB%9D%BD%EB%89%B4%EC%8A%A4%ED%8C%80/sub_%EA%B2%80%EC%83%89_%EA%B9%80%ED%95%9C%EB%B9%88.html" },
-            { name: "김호중", url: "file:///C:/Users/user/Desktop/%EB%82%98%EB%9D%BD%EB%89%B4%EC%8A%A4%ED%8C%80/sub_%EA%B2%80%EC%83%89_%EA%B9%80%ED%98%B8%EC%A4%91.html" },
-            { name: "승리", url: "file:///C:/Users/user/Desktop/%EB%82%98%EB%9D%BD%EB%89%B4%EC%8A%A4%ED%8C%80/sub_%EA%B2%80%EC%83%89_%EC%8A%B9%EB%A6%AC.html" },
-            { name: "양팡", url: "file:///C:/Users/user/Desktop/%EB%82%98%EB%9D%BD%EB%89%B4%EC%8A%A4%ED%8C%80/sub_%EA%B2%80%EC%83%89_%EC%96%91%ED%8C%A1.html" },
-            { name: "오킹", url: "file:///C:/Users/user/Desktop/%EB%82%98%EB%9D%BD%EB%89%B4%EC%8A%A4%ED%8C%80/sub_%EA%B2%80%EC%83%89_%EC%98%A4%ED%82%B9.html" },
-            { name: "유아인", url: "file:///C:/Users/user/Desktop/%EB%82%98%EB%9D%BD%EB%89%B4%EC%8A%A4%ED%8C%80/sub_%EA%B2%80%EC%83%89_%EC%9C%A0%EC%95%84%EC%9D%B8.html" },
-            { name: "이근", url: "file:///C:/Users/user/Desktop/%EB%82%98%EB%9D%BD%EB%89%B4%EC%8A%A4%ED%8C%80/sub_%EA%B2%80%EC%83%89_%EC%9D%B4%EA%B7%BC.html" },
-            { name: "이선균", url: "file:///C:/Users/user/Desktop/%EB%82%98%EB%9D%BD%EB%89%B4%EC%8A%A4%ED%8C%80/sub_%EA%B2%80%EC%83%89_%EC%9D%B4%EC%84%A0%EA%B7%A0.html" },
-            { name: "정우성", url: "file:///C:/Users/user/Desktop/%EB%82%98%EB%9D%BD%EB%89%B4%EC%8A%A4%ED%8C%80/sub_%EA%B2%80%EC%83%89_%EC%A0%95%EC%9A%B0%EC%84%B1.html" },
-            { name: "정준영", url: "file:///C:/Users/user/Desktop/%EB%82%98%EB%9D%BD%EB%89%B4%EC%8A%A4%ED%8C%80/sub_%EA%B2%80%EC%83%89_%EC%A0%95%EC%A4%80%EC%98%81.html" },
-            { name: "주지훈", url: "file:///C:/Users/user/Desktop/%EB%82%98%EB%9D%BD%EB%89%B4%EC%8A%A4%ED%8C%80/sub_%EA%B2%80%EC%83%89_%EC%A3%BC%EC%A7%80%ED%9B%88.html" },
-            { name: "탑", url: "file:///C:/Users/user/Desktop/%EB%82%98%EB%9D%BD%EB%89%B4%EC%8A%A4%ED%8C%80/sub_%EA%B2%80%EC%83%89_%ED%83%91.html" },
+            { name: "김한빈", url: "https://gjtjdgur0920.github.io/2/" },
+            { name: "김호중", url: "https://gjtjdgur0920.github.io/3/" },
+            { name: "승리", url: "https://gjtjdgur0920.github.io/4/" },
+            { name: "양팡", url: "https://gjtjdgur0920.github.io/5/" },
+            { name: "오킹", url: "https://gjtjdgur0920.github.io/6/" },
+            { name: "유아인", url: "https://gjtjdgur0920.github.io/7/" },
+            { name: "이근", url: "https://gjtjdgur0920.github.io/8/" },
+            { name: "이선균", url: "https://gjtjdgur0920.github.io/9/" },
+            { name: "정우성", url: "https://gjtjdgur0920.github.io/10/" },
+            { name: "정준영", url: "https://gjtjdgur0920.github.io/11/" },
+            { name: "주지훈", url: "https://gjtjdgur0920.github.io/12/" },
+            { name: "탑", url: "https://gjtjdgur0920.github.io/13/" },
         ];
 
         // 검색에 맞는 항목을 필터링
