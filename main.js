@@ -57,7 +57,7 @@
 
         //데이터와 URL
         const data = [
-            { name: "김동희", url: "file:///C:/Users/user/Desktop/%EB%82%98%EB%9D%BD%EB%89%B4%EC%8A%A4%ED%8C%80/sub_%EA%B2%80%EC%83%89_%EA%B9%80%EB%8F%99%ED%9D%AC.html" },
+            { name: "김동희", url: "https://gjtjdgur0920.github.io/1/" },
             { name: "김한빈", url: "file:///C:/Users/user/Desktop/%EB%82%98%EB%9D%BD%EB%89%B4%EC%8A%A4%ED%8C%80/sub_%EA%B2%80%EC%83%89_%EA%B9%80%ED%95%9C%EB%B9%88.html" },
             { name: "김호중", url: "file:///C:/Users/user/Desktop/%EB%82%98%EB%9D%BD%EB%89%B4%EC%8A%A4%ED%8C%80/sub_%EA%B2%80%EC%83%89_%EA%B9%80%ED%98%B8%EC%A4%91.html" },
             { name: "승리", url: "file:///C:/Users/user/Desktop/%EB%82%98%EB%9D%BD%EB%89%B4%EC%8A%A4%ED%8C%80/sub_%EA%B2%80%EC%83%89_%EC%8A%B9%EB%A6%AC.html" },
